@@ -1,5 +1,5 @@
 
 resource "aws_instance" "dhanstest" {
-  ami = "ami-2757f631"
+  ami = "ami-ae7bfdb8"
   instance_type = "t2.micro"
 }
